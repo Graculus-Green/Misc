@@ -1,4 +1,4 @@
-# To work in Jupyter
+# To work in Jupyter - as part of https://www.udemy.com/course/python-for-machine-learning-data-science-masterclass/
 # img is the directory path of the image you want to quantise
 # num is the number of different colours you want to use
 
